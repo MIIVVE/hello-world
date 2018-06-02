@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hi Humans!
+Hi CIEN!
+
+I want to eat some food. Im very hungry...
+I have some nacho chips, but I dont want to eat them.
